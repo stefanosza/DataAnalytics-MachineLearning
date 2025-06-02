@@ -1,6 +1,6 @@
 # 📘 General Overview: Police Traffic Violations Analysis
 
----
+
 
 This notebook analyzes **data related to police traffic stops and violations**. The dataset includes information about vehicle stops conducted by the police, such as:
 
@@ -8,8 +8,6 @@ This notebook analyzes **data related to police traffic stops and violations**. 
 - **Driver’s age, gender, and race**
 - **Reason for the stop** (e.g., signal violation, speeding)
 - **Outcome of the stop** (e.g., warning, ticket, arrest)
-
----
 
 ## Steps:
 
